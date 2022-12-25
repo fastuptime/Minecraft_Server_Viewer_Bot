@@ -1,6 +1,8 @@
 # Minecraft_Server_Viewer_Bot
 ---
 
+- Supports Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18 and 1.19.
+
 # Resimler
 
 ![image](https://user-images.githubusercontent.com/63351166/209477541-8ae38fe3-c2da-4dd9-ba88-8ab2c3f80666.png)
