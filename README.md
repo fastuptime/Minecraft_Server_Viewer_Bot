@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/63351166/209477568-315e4b24-26aa-47a4-8438-c3dc0392b3a2.png)<br>
 ![image](https://user-images.githubusercontent.com/63351166/209477595-0571d7b5-81d8-451e-b626-7794a6e17c42.png)<br>
 ![image](https://user-images.githubusercontent.com/63351166/209477680-172716ce-c1fa-4710-ba0a-1fc88d9a65fd.png)<br>
-![image](https://user-images.githubusercontent.com/63351166/209477735-1e0bd97e-c5df-4bc2-bca9-ffe441e608c1.png)
+![image](https://user-images.githubusercontent.com/63351166/209477735-1e0bd97e-c5df-4bc2-bca9-ffe441e608c1.png)<br>
 
 ---
 - ✨ [Destek İçin](https://fastuptime.com) <br>
